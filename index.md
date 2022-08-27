@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Vidyaratnam Ganapathy's First CS193 Homework
+
+
+## My Favorite Things About CS193
+
+- The instructors are great!
+- They make things very eary to understand.
+- The homework have very practical applications that I will use in my future work.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
